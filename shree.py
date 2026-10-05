@@ -4,3 +4,4 @@ for student in students:
     print("Hello,", student)
     print("**********************")
     print("---------------")
+    print("*************")
